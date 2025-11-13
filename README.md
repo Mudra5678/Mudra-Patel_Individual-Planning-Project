@@ -1,4 +1,4 @@
-# Mudra-Patel_Individual-Planning-Project1
+# Mudra-Patel_Individual-Planning-Project
 
 DSCI Individual Planning Project
 
